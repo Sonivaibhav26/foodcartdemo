@@ -1,0 +1,1 @@
+to launch do a npm install and then npm start
